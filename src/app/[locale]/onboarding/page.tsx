@@ -16,7 +16,7 @@ export default function OnboardingWelcomePage() {
           TripAi
         </Link>
         <div className="text-xs font-medium text-muted-foreground">
-          {t("step", { current: 0, total: 8 })}
+          {t("step", { current: 0, total: 3 })}
         </div>
       </header>
 
