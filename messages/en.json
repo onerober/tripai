@@ -47,7 +47,28 @@
       "departureLabel": "Departure date",
       "departureTimeLabel": "Departure time (optional)",
       "durationInfo": "Total duration: {days} days"
+    },
+    "review": {
+      "title": "Review your trip",
+      "destinationLabel": "Destination",
+      "datesLabel": "Dates",
+      "travelersLabel": "Travelers",
+      "accommodationLabel": "Accommodation",
+      "preferencesLabel": "Preferences",
+      "generateButton": "Generate my plan",
+      "estimationInfo": "This takes about 30 to 60 seconds",
+      "generating": "Building your plan",
+      "errorPrefix": "Error"
     }
+  },
+  "TripDetail": {
+    "backHome": "Back to home",
+    "copy": "Copy",
+    "copied": "Copied",
+    "download": "Download",
+    "readyBadge": "Your plan is ready",
+    "notFound": "This trip was not found",
+    "noDoc": "The master document has not been generated yet."
   }
 }
 
