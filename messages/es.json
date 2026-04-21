@@ -47,7 +47,28 @@
       "departureLabel": "Fecha de salida",
       "departureTimeLabel": "Hora de salida (opcional)",
       "durationInfo": "Duración total: {days} días"
+    },
+    "review": {
+      "title": "Revisá tu viaje",
+      "destinationLabel": "Destino",
+      "datesLabel": "Fechas",
+      "travelersLabel": "Viajeros",
+      "accommodationLabel": "Hospedaje",
+      "preferencesLabel": "Preferencias",
+      "generateButton": "Generar mi plan",
+      "estimationInfo": "Esto toma alrededor de 30 a 60 segundos",
+      "generating": "Estamos armando tu plan",
+      "errorPrefix": "Error"
     }
+  },
+  "TripDetail": {
+    "backHome": "Volver al inicio",
+    "copy": "Copiar",
+    "copied": "Copiado",
+    "download": "Descargar",
+    "readyBadge": "Tu plan está listo",
+    "notFound": "No encontramos este viaje",
+    "noDoc": "Todavía no se generó el documento maestro."
   }
 }
 
