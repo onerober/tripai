@@ -1,0 +1,53 @@
+{
+  "Home": {
+    "title": "Plan your trip with a smart assistant",
+    "subtitle": "Enter your details and TripAi builds you a complete plan, day by day, tailored to you.",
+    "cta": "Get started",
+    "features": {
+      "smart": {
+        "title": "Smart planning",
+        "description": "Itineraries built around your tastes, budget, and travel rhythm."
+      },
+      "adaptive": {
+        "title": "Adapts on the fly",
+        "description": "Weather changes, things you skip, live suggestions. The app reorganizes with you."
+      },
+      "simple": {
+        "title": "No fuss",
+        "description": "Clear buttons, no confusing chat. Made for enjoying, not reading screens."
+      }
+    }
+  },
+  "LanguageSwitcher": {
+    "es": "Español",
+    "en": "English"
+  },
+  "Onboarding": {
+    "step": "Step {current} of {total}",
+    "next": "Next",
+    "back": "Back",
+    "welcome": {
+      "title": "Welcome to TripAi!",
+      "description": "In a few minutes we'll collect the details of your trip. You can come back and edit anytime.",
+      "startButton": "Start"
+    },
+    "destination": {
+      "title": "Where are you going?",
+      "cityLabel": "City and country",
+      "cityPlaceholder": "Ex: New York, United States",
+      "moreCitiesQuestion": "Are you visiting other cities in the same trip?",
+      "yes": "Yes",
+      "no": "No",
+      "addCity": "Add another city"
+    },
+    "dates": {
+      "title": "When is the trip?",
+      "arrivalLabel": "Arrival date",
+      "arrivalTimeLabel": "Arrival time (optional)",
+      "departureLabel": "Departure date",
+      "departureTimeLabel": "Departure time (optional)",
+      "durationInfo": "Total duration: {days} days"
+    }
+  }
+}
+
